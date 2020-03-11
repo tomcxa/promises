@@ -2,6 +2,6 @@
 // TODO: write your code here
 import GameSavingLoader from './GameSavingLoader';
 
-GameSavingLoader.load()
-    .then((saving) => saving,
-        (error) => error);
+// GameSavingLoader.load()
+//     .then((saving) => saving,
+//         (error) => error);
